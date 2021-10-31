@@ -52,3 +52,5 @@ conda install -c anaconda pandas
 **GUI:**
 
 <img src="GUI screenshot.png" alt="drawing" width="400"/>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/A5r_u_zdKQ4)
