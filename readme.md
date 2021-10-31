@@ -53,5 +53,4 @@ conda install -c anaconda pandas
 
 <img src="GUI screenshot.png" alt="drawing" width="400"/>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/A5r_u_zdKQ4)
-thermal_image_vid.mp4_detected_output_.gif
+![video detection demo](https://user-images.githubusercontent.com/69584351/139590155-3339ab1d-a267-4b12-b590-d16e3c2a19c6.gif)
