@@ -50,4 +50,5 @@ pip install pyqt5
 conda install -c anaconda pandas
 ```
 **GUI:**
+
 <img src="GUI screenshot.png" alt="drawing" width="400"/>
