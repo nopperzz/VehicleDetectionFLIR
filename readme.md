@@ -11,7 +11,7 @@ Samples
 
 
 
-**Dataset link**: [FLIR IMAGES](https://www.kaggle.com/deepnewbie/flir-thermal-images-dataset)
+**Dataset Source**: [FLIR IMAGES](https://www.kaggle.com/deepnewbie/flir-thermal-images-dataset)
 
 **Number of images used**: 300. 80% training, 20% validation
 
