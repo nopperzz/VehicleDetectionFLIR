@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image (187).jpeg</filename>
+	<path>C:\Users\RYZEN\Desktop\random\datasets\vehicle_detection\train\images\image (187).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>226</ymin>
+			<xmax>340</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>229</ymin>
+			<xmax>479</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

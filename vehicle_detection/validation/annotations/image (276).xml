@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image (276).jpeg</filename>
+	<path>C:\Users\RYZEN\Desktop\random\datasets\vehicle_detection\validation\images\image (276).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>193</ymin>
+			<xmax>587</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
