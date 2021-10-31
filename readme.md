@@ -6,9 +6,9 @@
 
 Samples
 
-<img src="DEPLOYMENT/test/image(373).jpg" alt="drawing" width="200"/>
-<img src="DEPLOYMENT/test/image(379).jpg" alt="drawing" width="200"/>
-<img src="DEPLOYMENT/test/image-_383_.jpg" alt="drawing" width="200"/>
+<img src="DEPLOYMENT/test/image(373).jpg" alt="drawing" width="200"/> <img src="DEPLOYMENT/test/image(379).jpg" alt="drawing" width="200"/> <img src="DEPLOYMENT/test/image-_383_.jpg" alt="drawing" width="200"/>
+
+
 
 
 **Dataset link**: [FLIR IMAGES](https://www.kaggle.com/deepnewbie/flir-thermal-images-dataset)
