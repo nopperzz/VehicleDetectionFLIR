@@ -50,4 +50,4 @@ pip install pyqt5
 conda install -c anaconda pandas
 ```
 **GUI:**
-<img src="DEPLOYMENT/test/image(373).jpg" alt="drawing" width="400"/>
+<img src="VehicleDetectionFLIR/GUI screenshot.png" alt="drawing" width="400"/>
