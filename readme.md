@@ -53,4 +53,8 @@ conda install -c anaconda pandas
 
 <img src="GUI screenshot.png" alt="drawing" width="400"/>
 
+**Sample Outputs**
+
+<img src="input_vs_output.jpg" alt="drawing" width="700"/>
+
 ![video detection demo](https://user-images.githubusercontent.com/69584351/139590155-3339ab1d-a267-4b12-b590-d16e3c2a19c6.gif)
