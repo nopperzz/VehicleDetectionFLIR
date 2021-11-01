@@ -77,5 +77,5 @@ conda list
 
 ![video detection demo](https://user-images.githubusercontent.com/69584351/139650405-0e43b3b3-bad6-4952-82cd-28f78ec4038a.gif)
 
-[Original video](https://www.anaconda.com/products/individual)
+[Original video](https://www.youtube.com/watch?v=P_AtzUVaHJ8)
 
