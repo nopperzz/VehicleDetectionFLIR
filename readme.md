@@ -1,5 +1,7 @@
 <h1 align="center"><b>VEHICLE DETECTION IN FLIR IMAGES</b></h1>
+
 ---
+
 ## DATA PREPARATION
 
  Dataset: FLIR images
@@ -73,7 +75,7 @@ conda list
 
 <img src="input_vs_output.jpg" alt="drawing" width="600"/>
 
-<a href="[{video-url}](https://youtu.be/A5r_u_zdKQ4)" title="Link Title">
+![video detection demo](https://user-images.githubusercontent.com/69584351/139650405-0e43b3b3-bad6-4952-82cd-28f78ec4038a.gif)
 
 [Original video](https://www.anaconda.com/products/individual)
 
