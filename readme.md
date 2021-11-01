@@ -66,7 +66,7 @@ check the installed packages using this command
 ```python 
 conda list
 ```
-To open Jupyter notebook, type "jupyter notebook in Anaconda prompt
+To open Jupyter notebook, type *jupyter notebook* in Anaconda prompt
 
 locate the ipynb file GUI.ipynb and run the program
 
