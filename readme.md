@@ -66,6 +66,7 @@ check the installed packages using this command
 ```python 
 conda list
 ```
+locate the ipynb file GUI.ipynb and run the program
 
 **GUI:**
 
