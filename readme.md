@@ -74,7 +74,7 @@ locate the ipynb file GUI.ipynb and run the program
 
 <img src="GUI screenshot.png" alt="drawing" width="400"/>
 
-**Sample Output:**
+**Sample Outputs:**
 
 <img src="input_vs_output.jpg" alt="drawing" width="600"/>
 
