@@ -18,6 +18,7 @@ Number of images used: 300. 80% training, 20% validation
 Annotated Using [labelImg](https://github.com/tzutalin/labelImg)
 
 ---
+
 ## MODEL TRAINING
 Environment: Google Colab
 
