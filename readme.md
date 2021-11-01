@@ -1,8 +1,8 @@
-# VEHICLE DETECTION IN FLIR IMAGES
+<h1 align="center"><b>VEHICLE DETECTION IN FLIR IMAGES</b></h1>
 ---
-## • DATA PREPARATION
+## DATA PREPARATION
 
- **Dataset**: FLIR images
+ Dataset: FLIR images
 
 Samples
 
@@ -11,34 +11,43 @@ Samples
 
 
 
-**Dataset Source**: [FLIR IMAGES](https://www.kaggle.com/deepnewbie/flir-thermal-images-dataset)
+Dataset Source: [FLIR IMAGES](https://www.kaggle.com/deepnewbie/flir-thermal-images-dataset)
 
-**Number of images used**: 300. 80% training, 20% validation
+Number of images used: 300. 80% training, 20% validation
 
 Annotated Using [labelImg](https://github.com/tzutalin/labelImg)
 
 ---
-## • MODEL TRAINING
-**Environment**: Google Colab
+## MODEL TRAINING
+Environment: Google Colab
 
-**Algorithm Used**: YOLOv3
+Algorithm Used: YOLOv3
 
-**Number of epochs**: 25
+Number of epochs: 20
 
-**Highest Mean Average Precision (mAP)**: 0.6914
+Highest Mean Average Precision (mAP): 0.6914
 
 ---
 
-## •DEPLOYMENT
+<h1 align="center"><b>DEPLOYMENT</b></h1>
 
-**Environment**: Using Anaconda, new Python environment is created to develop a GUI for deployment.
+[Download Anaconda here](https://www.anaconda.com/products/individual)
 
-**Commands**: 
+[Anaconda and Jupyter Notebook Setup](https://www.youtube.com/watch?v=syijLJ3oQzU)
+
+Type this in Anaconda prompt to create new environment
+
 ```python 
-conda create --name <environment name> python=3.5
+conda create --name <environment name> python=3.6
 ```
+Activate the new environment
 
-**Command for installing Dependencies:**
+```python 
+activate <environment name>
+```
+install Dependencies one by one 
+
+(if there is an error in pip install 'h5py==2.10.0' --force-reinstall, try to remove the aphostraphes)
 ```python 
 pip install opencv-python==4.1.2.30
 pip uninstall keras-nightly -y
@@ -49,12 +58,21 @@ pip install imageai==2.1.5
 pip install pyqt5
 conda install -c anaconda pandas
 ```
+check the installed packages using this command
+
+```python 
+conda list
+```
+
 **GUI:**
 
 <img src="GUI screenshot.png" alt="drawing" width="400"/>
 
-**Sample Outputs**
+**Sample Output:**
 
-<img src="input_vs_output.jpg" alt="drawing" width="700"/>
+<img src="input_vs_output.jpg" alt="drawing" width="600"/>
 
-![video detection demo](https://user-images.githubusercontent.com/69584351/139590155-3339ab1d-a267-4b12-b590-d16e3c2a19c6.gif)
+<a href="[{video-url}](https://youtu.be/A5r_u_zdKQ4)" title="Link Title">
+
+[Original video](https://www.anaconda.com/products/individual)
+
